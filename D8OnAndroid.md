@@ -1,0 +1,1 @@
+This page has moved to https://chromium.googlesource.com/v8/v8/+/master/docs/d8_on_android.md

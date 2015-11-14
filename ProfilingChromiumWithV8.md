@@ -1,0 +1,1 @@
+This page has moved to https://chromium.googlesource.com/v8/v8/+/master/docs/profiling_chromium_with_v8.md
